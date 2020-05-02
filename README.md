@@ -1,5 +1,5 @@
 # This Repo is Deprecated
-please visit [BuddhistScriptures2](/weiyinfu/BuddhistScriptures2)
+please visit [BuddhistScriptures2](https://github.com/weiyinfu/BuddhistScriptures2)
 
 * 大宝广博楼阁善住秘密陀罗尼经
 * 无量义经
