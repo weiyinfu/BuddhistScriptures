@@ -1,3 +1,6 @@
+# This Repo is Deprecated
+please visit [BuddhistScriptures2](github.com/weiyinfu/BuddhistScriptures2)
+
 * 大宝广博楼阁善住秘密陀罗尼经
 * 无量义经
 * 佛说首楞严三昧经
